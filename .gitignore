@@ -1,0 +1,6 @@
+#Ignore object files and binaries
+*.out
+*.o
+
+#Ignore XCode project files
+*.xcodeproj
